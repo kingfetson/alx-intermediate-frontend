@@ -1,0 +1,7 @@
+# Installation Steps for SASS
+
+1. Created a new directory called `0x03-sass_scss` in the `alx-intermediate-frontend` repository.
+2. Installed Node Version Manager (NVM) using the command:
+3. Closed and reopened the terminal to apply changes.
+4. Installed Node.js version 20.16 using NVM with the command:
+5. Installed SASS using npm with the command:
